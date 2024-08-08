@@ -11,7 +11,7 @@ import Layout from '@/页面/组件/Layout'
 import store from '@/store/index'
 
 import App from './页面/index'
-import './全局样式/base.css'
+import './style/base.css'
 
 dayjs.locale('zh-cn')
 
